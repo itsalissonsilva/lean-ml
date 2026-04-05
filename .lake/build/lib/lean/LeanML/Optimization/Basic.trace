@@ -1,0 +1,33 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs":
+ {"o": ["74107883906b743f.olean"],
+  "m": false,
+  "i": "d36645257b02e5b1.ilean",
+  "c": "86bd74f9f03644e1.c"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\packages\\Cli\\.lake\\build\\lib\\lean;C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\packages\\batteries\\.lake\\build\\lib\\lean;C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\packages\\Qq\\.lake\\build\\lib\\lean;C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\packages\\aesop\\.lake\\build\\lib\\lean;C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\packages\\proofwidgets\\.lake\\build\\lib\\lean;C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\packages\\importGraph\\.lake\\build\\lib\\lean;C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\packages\\LeanSearchClient\\.lake\\build\\lib\\lean;C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\packages\\plausible\\.lake\\build\\lib\\lean;C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean;C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\build\\lib\\lean c:\\Users\\Lenovo\\.elan\\toolchains\\leanprover--lean4---v4.30.0-rc1\\bin\\lean.exe C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\LeanML\\Optimization\\Basic.lean -o C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\build\\lib\\lean\\LeanML\\Optimization\\Basic.olean -i C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\build\\lib\\lean\\LeanML\\Optimization\\Basic.ilean -c C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\build\\ir\\LeanML\\Optimization\\Basic.c --setup C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\.lake\\build\\ir\\LeanML\\Optimization\\Basic.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["LeanML.Optimization.Basic:deps",
+   [["deps",
+     [["LeanML/LeanML:extraDep", [["@LeanML:extraDep", "00000000000006bb"]]],
+      ["imports",
+       [["LeanML.Foundations transitive imports (legacy)", "0852b27fcf132f85"],
+        ["LeanML.Foundations:importAllArts", "21ca1b89170d3858"]]]]],
+    ["libs",
+     [["import dynlibs", "00000000000006bb"],
+      ["package external libraries", "00000000000006bb"],
+      ["module dynlibs", "00000000000006bb"],
+      ["module plugins", "00000000000006bb"]]]]],
+  ["Lean 4.30.0, commit 714601baf118066cbf3f282361339c6d06665b2a",
+   "a22979b798cee25b"],
+  ["C:\\Users\\Lenovo\\Downloads\\lean-ml(1)\\lean-ml\\LeanML\\Optimization\\Basic.lean",
+   "281998bf49806a0e"],
+  ["options", "00000000000006bb"],
+  ["isModule: false", "feefd2a0d3a1847e"],
+  ["Module.name: LeanML.Optimization.Basic", "7ec32a2427f74dca"],
+  ["Package.id?: (some LeanML)", "25baa0efdfa23113"],
+  ["Module.leanArgs: #[]", "00000000000006bb"]],
+ "depHash": "18a771e9a1fc1d38"}
