@@ -15,6 +15,9 @@ Formally verified machine learning algorithms in [Lean 4](https://lean-lang.org/
   * **Classification.Logistic:** Logistic regression (TBD)
   * **Classification.SVM:** Support vector machines (TBD)
   * **Classification.KNN:** K-nearest neighbors (TBD)
+  * **NeuralNets.Perceptron:** Single-layer perceptron (TBD)
+  * **NeuralNets.MLP:** Multi-layer perceptron (TBD)
+  * **NeuralNets.Backprop:** Backpropagation correctness (TBD)
 * **Unsupervised**
 
   * **Clustering.KMeans:** K-means clustering (TBD)
