@@ -7,6 +7,7 @@ Formally verified machine learning algorithms in [Lean 4](https://lean-lang.org/
 * **Foundations:** Metric spaces, vector spaces, norms, inner products
 
   * **Foundations.MetricSpaces:** Metric and squared-metric losses over finite samples
+  * **Foundations.NormedSpaces:** Norm and squared-norm losses for vector-valued models
 * **Optimization:** Loss functions, convexity, gradient descent
 * **Supervised**
 
