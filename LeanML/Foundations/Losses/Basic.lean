@@ -50,5 +50,3 @@ lemma empiricalLoss_nonneg
     simpa [Finset.sum_insert, ha] using add_nonneg hnonneg hs
 
 end LeanML.Foundations.Losses
-
-end LeanML.Foundations.Losses

@@ -4,7 +4,9 @@ Formally verified machine learning algorithms in [Lean 4](https://lean-lang.org/
 
 ## Structure
 
-* **Foundations:** Vector spaces, norms, inner products
+* **Foundations:** Metric spaces, vector spaces, norms, inner products
+
+  * **Foundations.MetricSpaces:** Metric and squared-metric losses over finite samples
 * **Optimization:** Loss functions, convexity, gradient descent
 * **Supervised**
 
@@ -33,4 +35,3 @@ curl https://elan.lean-lang.org/install.sh -sSf | sh
 lake update
 lake build
 ```
-

@@ -7,6 +7,12 @@ import LeanML.Supervised.Regression.Linear.Affine
 
 open LeanML.Supervised.Regression.Linear.Affine
 
-#check Model
-#check predict
-#check mse
+#check Sxx
+#check Sx
+#check Sy
+#check Sxy
+#check Δ
+#check aStar
+#check bStar
+#check loss
+#check optimal_minimizes

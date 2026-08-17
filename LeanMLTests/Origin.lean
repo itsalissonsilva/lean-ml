@@ -7,6 +7,8 @@ import LeanML.Supervised.Regression.Linear.Origin
 
 open LeanML.Supervised.Regression.Linear.Origin
 
-#check Model
-#check predict
-#check mse
+#check Sxx
+#check Sxy
+#check aStar
+#check loss
+#check aStar_minimizes
